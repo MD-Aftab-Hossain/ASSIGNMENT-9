@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Graphic Design",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9rTO5Ymsx8LoeQ4K14qPFbmWmUX-PfZV1g&s",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwpQIcPAT44oydAgxa8Pd_6oTHcmajuM_zg&s",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Qur'an Recitation with Tajweed",
+    "providerName": "Ustad Ahmad Karim",
+    "providerEmail": "ahmad@skillswap.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Learn correct Qur'an recitation and pronunciation with Tajweed rules.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgiWktxx_aFcINXbRMKYAOd3iRFcQVXCHxg&s",
+    "category": "Religion"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Mathematics for High School",
+    "providerName": "Fatema Akter",
+    "providerEmail": "fatema@skillswap.com",
+    "price": 12,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Interactive lessons covering algebra, geometry, and problem solving.",
+    "image": "https://images.unsplash.com/photo-1596495577886-d920f1fb7238",
+    "category": "Education"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Web Development Bootcamp",
+    "providerName": "Omar Faruk",
+    "providerEmail": "omar@skillswap.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Learn HTML, CSS, JavaScript, and React from scratch to build modern websites.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "category": "Technology"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Arabic Language for Beginners",
+    "providerName": "Layla Hasan",
+    "providerEmail": "layla@skillswap.com",
+    "price": 18,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Learn to read, write, and speak basic Arabic in an easy and respectful environment.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJnQ9aPDZVQIZXOXM2FAC34prEI-7CfX6tQ&s",
+    "category": "Language"
+  }
+]
