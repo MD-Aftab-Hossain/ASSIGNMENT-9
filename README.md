@@ -101,8 +101,8 @@ Includes Firebase authentication, secure environment variables, smooth routing, 
 ---
 
 ## 📦 Dependencies Used
-
-"dependencies": {  
+```json
+{  
   "@tailwindcss/vite": "^4.1.15",  
   "aos": "^2.3.4",  
   "firebase": "^12.4.0",  
@@ -114,26 +114,33 @@ Includes Firebase authentication, secure environment variables, smooth routing, 
   "swiper": "^12.0.3",  
   "tailwindcss": "^4.1.15"  
 }
-
+```
 ---
 
 ## 🧪 Run This Project Locally
 
 ### 1. Clone Repository
+```bash
 git clone https://github.com/MD-Aftab-Hossain/ASSIGNMENT-9.git  
 cd ASSIGNMENT-9  
-npm install  
+npm install
+```
 
 ### 2. Create `.env` File
+```env
 VITE_apiKey=AIzaSyCHdopDeNhS9esPEg1-j4QCGuBTTzMtwyY  
 VITE_authDomain=assignment-9auth.firebaseapp.com  
 VITE_projectId=assignment-9auth  
 VITE_storageBucket=assignment-9auth.firebasestorage.app  
 VITE_messagingSenderId=579406613957  
-VITE_appId=1:579406613957:web:ffa2e69dba33cbdcf40fac  
+VITE_appId=1:579406613957:web:ffa2e69dba33cbdcf40fac
+```
 
 ### 3. Start Development Server
-npm run dev  
+
+```bash
+npm run dev
+```
 
 ---
 
