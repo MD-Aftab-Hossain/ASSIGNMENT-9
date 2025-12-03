@@ -6,7 +6,7 @@ const Cards = () => {
   console.log(cards)
   return (
     <div className="">
-      <p className='text-4xl font-bold text-center mt-20 my-10'>Popular Skills</p>
+      <p className='text-4xl text-black font-bold text-center mt-20 my-10'>Popular Skills</p>
       <div className="grid lg:grid-cols-3 sm:grid-cols-2 p-3.5 grid-cols-1 gap-5">
 
         {

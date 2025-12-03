@@ -23,22 +23,22 @@ const Why = () => {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div className="p-6 bg-white rounded-xl shadow-md hover:shadow-lg transition">
                         <FaHandshake className="text-4xl text-blue-500 mx-auto mb-3" />
-                        <h3 className="font-semibold text-lg">Best Skill Sharing</h3>
+                        <h3 className="text-black font-semibold text-lg">Best Skill Sharing</h3>
                     </div>
 
                     <div className="p-6 bg-white rounded-xl shadow-md hover:shadow-lg transition">
                         <FaUsers className="text-4xl text-green-500 mx-auto mb-3" />
-                        <h3 className="font-semibold text-lg">Verified Local Users</h3>
+                        <h3 className="text-black font-semibold text-lg">Verified Local Users</h3>
                     </div>
 
                     <div className="p-6 bg-white rounded-xl shadow-md hover:shadow-lg transition">
                         <FaStar className="text-4xl text-yellow-500 mx-auto mb-3" />
-                        <h3 className="font-semibold text-lg">Real Ratings & Reviews</h3>
+                        <h3 className="text-black font-semibold text-lg">Real Ratings & Reviews</h3>
                     </div>
 
                     <div className="p-6 bg-white rounded-xl shadow-md hover:shadow-lg transition">
                         <FaGraduationCap className="text-4xl text-purple-500 mx-auto mb-3" />
-                        <h3 className="font-semibold text-lg">Learn With Experts</h3>
+                        <h3 className="text-black font-semibold text-lg">Learn With Experts</h3>
                     </div>
                 </div>
             </div>

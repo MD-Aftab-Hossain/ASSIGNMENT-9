@@ -22,7 +22,7 @@ const Providers = () => {
 
   return (
     <div className="">
-      <p className="text-4xl font-bold text-center mt-20 my-10">Top Rated Providers</p>
+      <p className="text-4xl text-black font-bold text-center mt-20 my-10">Top Rated Providers</p>
       <div className="flex lg:flex-row sm:flex-row flex-col gap-5 text-center justify-between p-4">
         {providers.map((provider, index) => (
           <div key={index} className="p-4 flex flex-col justify-center items-center w-full bg-white rounded-lg shadow-md border h-60">
@@ -30,7 +30,7 @@ const Providers = () => {
               <img src={provider.img} className="w-20 h-20 rounded-full mr-3" />
               <h3 className="font-black text-3xl text-blue-700">{provider.name}</h3>
             </div>
-            <p className="text-2xl font-bold">{provider.description}</p>
+            <p className="text-2xl text-black font-bold">{provider.description}</p>
           </div>
         ))}
       </div>

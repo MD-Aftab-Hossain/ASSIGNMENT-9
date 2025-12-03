@@ -9,11 +9,11 @@ const Roadmap = () => {
 
   return (
     <section className="py-16 bg-gray-50 text-center">
-      <h2 className="text-3xl font-bold mb-12">How It Works</h2>
+      <h2 className="text-3xl font-bold mb-12 text-black">How It Works</h2>
       <div className="flex flex-wrap justify-center gap-8">
         {steps.map((step) => (
           <div className="bg-white p-6 rounded-xl shadow-lg w-64">
-            <h3 className="text-xl font-semibold mb-2">{step.title}</h3>
+            <h3 className="text-xl text-black font-semibold mb-2">{step.title}</h3>
             <p className="text-gray-600">{step.description}</p>
           </div>
         ))}
