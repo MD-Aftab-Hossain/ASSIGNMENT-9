@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "assignment-9auth",
+    "prod": "assignment-9auth"
+  },
+  "targets": {},
+  "etags": {}
+}

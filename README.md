@@ -16,7 +16,7 @@ This project maintains SPA behavior, uses protected routes, supports Google logi
 
 ## 🚀 Live Demo
 
-🔗 Live Website: http://skillswap-second.surge.sh  
+🔗 Live Website: https://assignment-9auth.web.app/ 
 
 🔗 GitHub Repository: https://github.com/mohammad-aftab-hossain-mozumder/ASSIGNMENT-9.git  
 
